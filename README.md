@@ -3,5 +3,5 @@ Flooding simulator made for HackRPI.
 
 Other contributors:
 Zachary McDaniel
-Matthey Cirimele
+Matthew Cirimele
 Kevin Liu
